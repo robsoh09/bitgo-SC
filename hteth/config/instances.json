@@ -1,1 +1,11 @@
-
+{
+  "StandardERC20": {
+    "BGERCH": "0xEBE8B46A42F05072b723b00013ff822B2af1B5cb",
+    "USDC": "0xff5Fe844B732033cA1d0D1630043B4cd003933cB",
+    "USDT": "0xb9092EbeAD57B63dF65CaC0C72d669E45B2Abcea"
+  },
+  "UniswapV2SwapRouter": {
+    "default": "0xa35bdaa6B24484E4fCF1AFdB777cD8871D105847"
+  }
+ 
+}
